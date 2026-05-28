@@ -9,7 +9,7 @@ This repository contains a collection of KubeJS scripts designed to optimize, un
 
 ## 🛠️ Upcoming Enhancements
 * Custom integration frameworks to bridge the gap between **Create** mechanics and **GregTech** technological eras, fixing the sluggishness of the traditional Steam Age smelting.
-
+* Planning a complete integration with Silent Gear. This will add custom metallurgy materials to unlock 3x3 mining tools (hammers/excavators).
 ## 📌 Requirements
 * [Create Mod](https://modrinth.com/mod/create)
 * [Create: Metallurgy](https://modrinth.com/mod/create-metallurgy)
