@@ -11,7 +11,10 @@ This repository contains a collection of KubeJS scripts designed to optimize, un
 * Custom integration frameworks to bridge the gap between **Create** mechanics and **GregTech** technological eras, fixing the sluggishness of the traditional Steam Age smelting.
 
 ## 📌 Requirements
-* KubeJS
-* Create Mod
-* Create: Metallurgy
-* KubeJS Create
+* [Create Mod](https://modrinth.com/mod/create)
+* [Create: Metallurgy](https://modrinth.com/mod/create-metallurgy)
+* [KubeJS](https://modrinth.com/mod/kubejs)
+* [KubeJS Create](https://modrinth.com/mod/kubejs-create)
+
+
+
