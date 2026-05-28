@@ -1,9 +1,3 @@
-// ============================================================
-//  Registro de Fluidos Customizados
-//  Pasta: kubejs/startup_scripts/liquid.js
-//  ⚠️ REQUER RESTART DO JOGO (não funciona com /reload)
-// ============================================================
-
 StartupEvents.registry('fluid', event => {
 
     // Molten Obsidian
