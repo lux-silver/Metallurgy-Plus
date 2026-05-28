@@ -1,6 +1,6 @@
 # Create: Metallurgy Plus - KubeJS Integration Pack
 
-This repository contains a collection of KubeJS scripts designed to optimize, unify, and expand the progression for **Create: Metallurgy**. The main goal is to streamline the modpack's performance while adding meaningful recipe depth inspired by classic tech mods.
+This repository contains a collection of KubeJS scripts designed to optimize, unify, and expand the progression for **Create: Metallurgy**. The main goal is to streamline the modpack's performance while adding meaningful recipe depth inspired by Tinkers' Construct.
 
 ## 🚀 Features
 
