@@ -15,6 +15,6 @@ This repository contains a collection of KubeJS scripts designed to optimize, un
 * [Create: Metallurgy](https://modrinth.com/mod/create-metallurgy)
 * [KubeJS](https://modrinth.com/mod/kubejs)
 * [KubeJS Create](https://modrinth.com/mod/kubejs-create)
-
-
+## Integration Datapack
+* [Create: Liquid Fuel](https://modrinth.com/mod/create-liquid-fuel)
 
