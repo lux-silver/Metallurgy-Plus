@@ -1,0 +1,6 @@
+{
+  "fluid": "metallurgy_plus:molten_magma",
+  "burnTime": 12,
+  "superHeat": false,
+  "amountConsumedPerTick" : 1
+}

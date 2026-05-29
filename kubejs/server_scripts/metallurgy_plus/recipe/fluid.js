@@ -1,5 +1,7 @@
 ServerEvents.recipes(event => {
 
+    //Casting in Basin -> Diamond Block from 900mb Molten Gold without mold in 120 ticks, mold not consumed.
+
     // Obsidian
 
 event.recipes.createmetallurgy.alloying(
@@ -44,6 +46,7 @@ event.recipes.createmetallurgy.casting_in_table('minecraft:magma_cream',
     )
 
 // Blaze
+    //Grinding -> Dead Bush into Coal Block. No heat condition!
 
     event.recipes.createmetallurgy
     .melting(Fluid.of("metallurgy_plus:molten_blaze", 90), "minecraft:blaze_rod")
@@ -62,6 +65,7 @@ event.recipes.createmetallurgy.casting_in_table('minecraft:blaze_rod',
 
 // Glass
 
+     //  melting
 event.custom({
     type: 'createmetallurgy:melting',
     ingredients: [{ tag: 'minecraft:sand' }],

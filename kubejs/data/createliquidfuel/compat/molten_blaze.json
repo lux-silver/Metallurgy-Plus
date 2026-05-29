@@ -1,0 +1,6 @@
+{
+  "fluid": "metallurgy_plus:molten_blaze",
+  "burnTime": 40,
+  "superHeat": false,
+  "amountConsumedPerTick" : 1
+}
