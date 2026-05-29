@@ -1,9 +1,3 @@
-// ============================================================
-//  Registro de Fluidos Customizados
-//  Pasta: kubejs/startup_scripts/liquid.js
-//  ⚠️ REQUER RESTART DO JOGO (não funciona com /reload)
-// ============================================================
-
 StartupEvents.registry('fluid', event => {
 
     // Molten Obsidian
@@ -31,39 +25,39 @@ StartupEvents.registry('fluid', event => {
         .stillTexture('metallurgy_plus:block/molten_blaze_still')
         .flowingTexture('metallurgy_plus:block/molten_blaze_flow')
 
-        // Molten Quartz
+    // Molten Quartz
         event.create('metallurgy_plus:molten_quartz')
         .displayName('Molten Quartz')
         .stillTexture('metallurgy_plus:block/g_still')
         .flowingTexture('metallurgy_plus:block/g_flow')
         .tint(0Xffffff)
-            // Molten Redstone
+    // Molten Redstone
         event.create('metallurgy_plus:molten_redstone')
         .displayName('Molten Redstone')
         .stillTexture('metallurgy_plus:block/g_still')
         .flowingTexture('metallurgy_plus:block/g_flow')
         .tint(0Xff2222)
 
-                    // Molten Clay
+    // Molten Clay
         event.create('metallurgy_plus:molten_clay')
         .displayName('Molten Clay')
         .stillTexture('metallurgy_plus:block/g_still')
         .flowingTexture('metallurgy_plus:block/g_flow')
         .tint(0X63380B)
 
-                            // Molten Diamond
+    // Molten Diamond
         event.create('metallurgy_plus:molten_diamond')
         .displayName('Molten Diamond')
         .stillTexture('metallurgy_plus:block/g_still')
         .flowingTexture('metallurgy_plus:block/g_flow')
         .tint(0X4bffff)
-                            // Molten Esmerald
+    // Molten Esmerald
         event.create('metallurgy_plus:molten_emerald')
         .displayName('Molten Emerald')
         .stillTexture('metallurgy_plus:block/g_still')
         .flowingTexture('metallurgy_plus:block/g_flow')
         .tint(0X42ff42)
-// Amethyst
+    // Amethyst
                 event.create('metallurgy_plus:molten_amethyst')
         .displayName('Molten Amethyst')
         .stillTexture('metallurgy_plus:block/g_still')

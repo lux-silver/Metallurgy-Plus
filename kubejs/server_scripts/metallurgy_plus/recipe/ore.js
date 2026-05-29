@@ -81,8 +81,6 @@ event.custom({
 event.recipes.createmetallurgy.casting_in_basin('minecraft:quartz_block',
     Fluid.of('metallurgy_plus:molten_quartz', 400)
     , 180, true)
-
-
     
 // Diamond
 
